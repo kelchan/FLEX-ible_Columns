@@ -1,6 +1,6 @@
 # FLEX-ible_Columns
 
-##Objectives
+## Objectives
 Learn about ```display: flex;```
 Learn about the ```flex: 1;``` shorthand 
 **The Flex Shorthand**
